@@ -1,4 +1,4 @@
-# loja-virtual
+# Barbearia
 Projeto de sistema CRUD em nuvem para gerenciar produtos, clientes e pedidos.
 /seu-repositorio
 │── /public
